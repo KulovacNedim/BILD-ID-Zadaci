@@ -17,7 +17,7 @@ public class Zadatak_03 {
 		Scanner sc = new Scanner(System.in);
 		int[] array1 = new int[10];
 		int[] array2 = new int[10];
-
+ 
 		System.out.println("Enter ten integers in array1: ");
 
 		for (int i = 0; i < array1.length; i++) {
